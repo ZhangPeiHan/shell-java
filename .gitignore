@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+*.iml
+*.idea
+*.log
+target/
+guns-logs/
+
+# Package Files #
+*.jar
